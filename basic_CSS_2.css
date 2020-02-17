@@ -7,3 +7,6 @@ p	{
 h1	{
 	color: blue;
 }
+body {
+	text-shadow: 5px 5px 3px black;
+}
